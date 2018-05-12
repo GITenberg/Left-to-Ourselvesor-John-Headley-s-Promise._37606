@@ -1,0 +1,26 @@
+_repo: Left-to-Ourselvesor-John-Headley-s-Promise._37606
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37606-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Shaw, Catharine
+    gutenberg_agent_id: '38947'
+    url: http://www.gutenberg.org/2009/agents/38947
+description: ''
+gutenberg_issued: '2011-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37606'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcc 'PZ'
+title: Left to Ourselves; or, John Headley's Promise.
+url: http://www.gutenberg.org/ebooks/37606
